@@ -4,10 +4,11 @@ copyright: "2024"
 # logo: logo.png
 
 repository:
-  url: https://github.com/dgt-mon/guidelines-for-drafting-manuscripts
+  url: https://github.com/organization-for-attestation/guidelines-for-drafting-manuscripts
 html:
   use_repository_button: true
   use_issues_button: true
+  use_edit_page_button: true
 
 execute:
   execute_notebooks: off
